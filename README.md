@@ -2,8 +2,8 @@
 A simple TPA Bot for 0b0t, using a few plugins for extra safety.
 ------------------------------------------------------------------
 ### Plugins: 
-[PrismarineViewer](https://github.com/PrismarineJS/prismarine-viewer)
-[AutoEat](https://github.com/link-discord/mineflayer-auto-eat)
+[PrismarineViewer](https://github.com/PrismarineJS/prismarine-viewer),
+[AutoEat](https://github.com/link-discord/mineflayer-auto-eat),
 [AutoTotem](https://github.com/SpaceEngineer0/mineflayer-autotem)
 ### Script:
 ```js
