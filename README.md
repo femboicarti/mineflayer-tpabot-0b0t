@@ -69,7 +69,7 @@ let bot = mineflayer.createBot({
   })
 
   bot.once('spawn', () => {
-    mineflayerViewer(bot, { port: 3001, firstPerson: true }) // port is the minecraft server port, if first person is false, you get a bird's-eye view
+    mineflayerViewer(bot, { port: 3000, firstPerson: true }) // port is the minecraft server port, if first person is false, you get a bird's-eye view
     bot.autoEat.options.priority = 'hunger'
     bot.autoEat.options.startAt = 19
 })
